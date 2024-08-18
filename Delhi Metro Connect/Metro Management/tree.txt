@@ -1,0 +1,266 @@
+AIIMS - Yellow 
+Adarsh Nagar - Yellow 
+Akshardham - Blue 
+Alpha 1 Greater Noida - Aqua 
+Anand Vihar - Pink Blue2 
+Arjan Garh - Yellow 
+Arthala - Red 
+Ashok Park Main - Green Green2 
+Ashram - Pink 
+Azadpur - Yellow Pink 
+Badarpur Border - Violet 
+Badkal Mor - Violet 
+Bahdurgarh City - Green
+Barakhamba - Blue
+Bata Chowk - Violet 
+Belvedre Towers - Rapid 
+Bhikaji Cama Place - Pink 
+Botanical Garden - Blue Magenta 
+Brigadier Hoshiar Singh - Green 
+Central Secretariat - Yellow 
+Central Secreteriat - Violet 
+Chandni Chowk - Yellow 
+Chawri Bazar - Yellow 
+Chhatarpur - Yellow 
+Chiraj delhi - Magenta 
+Civil Lines - Yellow 
+Cyber City - Rapid 
+DLF Phase 1 - Rapid 
+DLF phase 2 - Rapid 
+DLF phase 3 - Rapid 
+Dabri mor janakpuri - Magenta 
+Dashrath puri - Magenta 
+Delhi Aerocity  - Airport Express 
+Delhi Cantt - Pink 
+Delhi Gate - Violet 
+Delta 1 Greater Noida - Aqua 
+Depot Greater Noida - Aqua 
+Dhaula Kuan  - Airport Express 
+Dilli Haat INA - Yellow Pink 
+Dilshad Garden - Red 
+Durgabai Deshmukh South - Pink 
+Dwarka - Blue Grey 
+Dwarka Mor - Blue 
+Dwarka Sector 10 - Blue 
+Dwarka Sector 11 - Blue 
+Dwarka Sector 12 - Blue 
+Dwarka Sector 13 - Blue 
+Dwarka Sector 21 - Blue Airport Express 
+Dwarka Sector 8 - Blue 
+Dwarka Sector 9 - Blue 
+Dwarks Sector 14 - Blue 
+ESI BASAI DARAPUR - Pink 
+East Azad Nagar - Pink 
+Escorts Mujesar - Violet 
+GNIDA Office - Aqua 
+Ghevra Metro - Green 
+Ghitorni - Yellow 
+Gokulpuri - Pink 
+Golf Course - Blue 
+Govind Puri - Violet 
+Greater kailash - Magenta 
+Green Park - Yellow 
+Guru Dronachrya - Yellow 
+Guru Teg Bahadur Nagar - Yellow 
+Haiderpur Badli Mor - Yellow 
+Hauz Khas - Yellow 
+Hauz khas - Magenta 
+Hindon River - Red 
+Huda City Centre - Yellow 
+IFFCO Chowk - Yellow 
+IGI Airport  - Airport Express 
+IIT delhi - Magenta 
+IP Extension - Pink 
+ITO - Violet 
+Inderlok - Red Green 
+Indraprastha - Blue 
+JAMIA MILLIA ISLAMIA - Magenta 
+Jaffrabad - Pink 
+Jahangirpuri - Yellow 
+Jama Masjid - Violet 
+Janak Puri East - Blue 
+Janak Puri West - Blue 
+Janakpuri west - Magenta 
+Jangpura - Violet 
+Janpath - Violet 
+Jasola - Violet 
+Jasola Vihar Shaheen Bagh - Magenta 
+Jawarhlal Nehru Stadium - Violet 
+Jhandewalan - Blue 
+Jhil Mil - Red 
+Johri Enclave - Pink 
+Jorbagh - Yellow 
+Kailash Colony - Violet 
+Kalindi Kunj - Magenta 
+Kalkaji Mandir - Violet 
+Kalkaji mandir - Magenta 
+Kanhaiya Nagar - Red 
+Karkar Duma - Pink Blue2 
+Karkarduma Court - Pink 
+Karol Bagh - Blue 
+Kashmere Gate - Red Yellow Violet 
+Kaushambi - Blue2 
+Keshav Puram - Red 
+Khan Market - Violet 
+Kirti Nagar - Blue Green2 
+Knowledge Park 2 - Aqua 
+Kohat Enclave - Red 
+Krishna Nagar - Pink 
+Lajpat Nagar - Violet Pink 
+Lal Quila - Violet 
+Laxmii Nagar - Blue2 
+Lok Kalyan Marg - Yellow 
+MG Road - Yellow 
+Madipur - Green 
+Maharaja Surajmal Stadium - Green 
+Majilis Park - Pink 
+Major Mohit Sharma - Red 
+Malviya Nagar - Yellow 
+Mandawali West Vinod Nagar - Pink 
+Mandi House - Blue Violet 
+Mansarovar Park - Red 
+Maujpur - Pink 
+Maya Puri - Pink 
+Mayur Vihar Extension - Blue 
+Mayur Vihar Phase 1 - Blue Pink 
+Mayur Vihar Pocket 1 - Pink 
+Mewala Maharajpur - Violet 
+Model Town - Yellow 
+Mohan Estate - Violet 
+Mohan Nagar - Red 
+Moolchand - Violet 
+Moti Nagar - Blue 
+Moulsari Avenue - Rapid 
+Mundka - Green 
+Mundka Industrial Area - Green 
+Munirka - Magenta 
+NHPC Chowk - Violet 
+NSEZ Noida - Aqua 
+Najafgarh - Grey 
+Nangli - Grey 
+Nangloi - Green 
+Nangloi Railway Station - Green 
+Naraina Vihar - Pink 
+Nawada - Blue 
+Neelam Chowk Ajronda - Violet 
+Nehru Place - Violet 
+Nehru enclave - Magenta 
+Netaji Subhash Palace - Red 
+Netaji Subhash Place - Pink 
+New Ashok Nagar - Blue 
+New Delhi - Yellow 
+New Delhi Airport Express - Airport Express 
+Nirman Vihar - Blue2 
+Noida City Center - Blue 
+Noida Electronic city - Blue 
+Noida Sector 101 - Aqua 
+Noida Sector 137 - Aqua 
+Noida Sector 142 - Aqua 
+Noida Sector 143 - Aqua 
+Noida Sector 145 - Aqua 
+Noida Sector 146 - Aqua 
+Noida Sector 147 - Aqua 
+Noida Sector 148 - Aqua 
+Noida Sector 15 - Blue 
+Noida Sector 16 - Blue 
+Noida Sector 18 - Blue 
+Noida Sector 34 - Blue 
+Noida Sector 50 - Aqua 
+Noida Sector 51 - Aqua 
+Noida Sector 52 - Blue 
+Noida Sector 59 - Blue 
+Noida Sector 61 - Blue 
+Noida Sector 62 - Blue 
+Noida Sector 76 - Aqua 
+Noida Sector 81 - Aqua 
+Noida Sector 83 - Aqua 
+Noids Sector 144 - Aqua 
+Okhla - Violet 
+Okhla Bird Sanctuary - Magenta 
+Okhla NSIC - Magenta 
+Okhla Vihar - Magenta 
+Old Faridabad - Violet 
+Palam - Magenta 
+Panchsheel park - Magenta 
+Pandit Shree Ram Sharma - Green 
+Pari Chowk Greater Noida - Aqua 
+Paschim Vihar West - Green 
+Pashcim Vihar East - Green 
+Patel Chowk - Yellow 
+Patel Nagar - Blue 
+Peera Garhi - Green 
+Pitam Pura - Red 
+Pratap Nagar - Red 
+Preet Vihar - Blue2 
+Pul Bangash - Red 
+Punjabi Bagh - Green 
+Punjabi Bagh West - Pink 
+Qutub Minar - Yellow 
+RK Asharam Marg - Blue 
+RR puram - Magenta 
+Raj Bagh - Red 
+Raja Nahar Singh - Violet 
+Rajdhani Park - Green 
+Rajendra Place - Blue 
+Rajiv Chowk - Yellow Blue 
+Rajouri Garden - Blue Pink 
+Ramesh Nagar - Blue 
+Rithala - Red 
+Rohini East - Red 
+Rohini Sector 18 - 19 
+Rohini West - Red 
+Sadar bazaar cantonment - Magenta 
+Saket - Yellow 
+Samaypur Badli - Yellow 
+Sant Surdas Sihhi - Violet 
+Sarai - Violet 
+Sarai Kale Khan Hazrat Nizamuddin - Pink 
+Sarita Vihar - Violet 
+Sarojini Nagar - Pink 
+Satguru Ram Singh Marg - Green2 
+Sector 28 Faridabad - Violet 
+Sector 42 43 - Rapid 
+Sector 53 54 - Rapid 
+Sector 54 chowk - Rapid 
+Sector 55 - 56 
+Seelampur - Red 
+Shadipur - Blue 
+Shahdhara - Red 
+Shaheed Nagar - Red 
+Shaheed Sthal - Red 
+Shahstri Park - Red 
+Shakurpur - Pink 
+Shalimar Bagh - Pink 
+Shankar vihar - Magenta 
+Shastri Nagar - Red 
+Shiv Vihar - Pink 
+Shivaji Park - Green 
+Shivaji Stadium - Airport Express 
+Shyam Park - Red 
+Sikandarpur - Yellow Rapid 
+Sir Vishweshwaraih Moti Bagh - Pink 
+South Extension - Pink 
+Subhash Nagar - Blue 
+Sukhdev vihar - Magenta 
+Sultanpur - Yellow 
+Supreme Court - Blue 
+Tagore Garden - Blue 
+Terminal 1 igi airport - Magenta 
+Tikri Border - Green 
+Tikri Kalan - Green 
+Tilak Nagar - Blue 
+Tis Hazari - Red 
+Trilokpuri Sanjay Lake - Pink 
+Tughlakabad - Violet 
+Udyog Bhawan - Yellow 
+Udyog Nagar - Green 
+Uttam Nagar East - Blue 
+Uttam Nagar West - Blue 
+Vaishali - Blue2 
+Vasant vihar - Magenta 
+Vidhan Sabha - Yellow 
+Vinobapuri - Pink 
+Vinod Nagar East - Pink 
+Vishavidyalaya - Yellow 
+Welcome - Red Pink 
+Yamuna Bank - Blue Blue2 

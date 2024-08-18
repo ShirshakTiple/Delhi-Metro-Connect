@@ -1,0 +1,9 @@
+1. Move to the folder "Metro Management"
+2. cc -c graph.c
+3. cc -c AVLtree.c
+4. cc -c list.c
+5. cc -c main.c
+6. cc graph.o AVLtree.o list.o main.o
+7. ./a.out
+8. Enter name of starting point 
+9. Enter location of destination

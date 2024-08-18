@@ -1,0 +1,12 @@
+10 
+Aqua Blue Green Gray Mangenta Orange Pink Red Violet Yellow
+Aqua [] ["noida sector 52"] [] [] [] [] [] [] [] []
+Blue ["noida sector 52"] [] ["kirti nagar"] ["dwarka"] ["janakpuri","botanical garden"] ["dwarka sector 21"] ["rajouri garden","mayur vihar phase 1"] [] ["mandi house"] ["rajiv chowk"]
+Green [a] [b"kirti nagar"] [] [] [] [] [] ["inderlok"] [] []  
+Grey [] ["dwarka"] [] [] [] [] [] [] [] [] 
+Magenta [] ["janakpuri","botanical garden"] [] [] [] [] [] [] ["kalkaji mandir"] ["hauz khas"] 
+Orange [] ["dwarka sector 21"] [] [] [] [] [] [] [] ["new delhi"]
+Pink [] ["rajouri garden","mayur vihar phase 1"] [] [] [] [] [] ["netaji subhash palace"] ["lajpat nagar"] []
+Red [] [] ["inderlok"] [] [] [] ["netaji subhash palace","welcome"] [] ["kashmere gate"] ["kashmere gate"]
+Violet [] ["mandi house"] [] [] ["kalkaji mandir"] [] ["lajpat nagar"] ["kashmere gate"] [] ["central sectratariat"]
+Yellow [] ["rajiv chowk"] [] [] ["hauz khas"] ["new delhi"] [] ["kashmere gate"] ["kashmere gate","central sectratariat"] []

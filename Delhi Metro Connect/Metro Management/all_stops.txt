@@ -1,0 +1,286 @@
+Shaheed Sthal-Red
+Hindon River-Red
+Arthala-Red
+Mohan Nagar-Red
+Shyam Park-Red
+Major Mohit Sharma-Red
+Raj Bagh-Red
+Shaheed Nagar-Red
+Dilshad Garden-Red
+Jhil Mil-Red
+Mansarovar Park-Red
+Shahdhara-Red
+Welcome-Red
+Seelampur-Red
+Shahstri Park-Red
+Kashmere Gate-Red
+Tis Hazari-Red
+Pul Bangash-Red
+Pratap Nagar-Red
+Shastri Nagar-Red
+Inderlok-Red
+Kanhaiya Nagar-Red
+Keshav Puram-Red
+Netaji Subhash Palace-Red
+Kohat Enclave-Red
+Pitam Pura-Red
+Rohini East-Red
+Rohini West-Red
+Rithala-Red
+Samaypur Badli-Yellow
+Rohini Sector 18-19-Yellow
+Haiderpur Badli Mor-Yellow
+Jahangirpuri-Yellow
+Adarsh Nagar-Yellow
+Azadpur-Yellow
+Model Town-Yellow
+Guru Teg Bahadur Nagar-Yellow
+Vishavidyalaya-Yellow
+Vidhan Sabha-Yellow
+Civil Lines-Yellow
+Kashmere Gate-Yellow
+Chandni Chowk-Yellow
+Chawri Bazar-Yellow
+New Delhi-Yellow
+Rajiv Chowk-Yellow
+Patel Chowk-Yellow
+Central Secretariat-Yellow
+Udyog Bhawan-Yellow
+Lok Kalyan Marg-Yellow
+Jorbagh-Yellow
+Dilli Haat INA-Yellow
+AIIMS-Yellow
+Green Park-Yellow
+Hauz Khas-Yellow
+Malviya Nagar-Yellow
+Saket-Yellow
+Qutub Minar-Yellow
+Chhatarpur-Yellow
+Sultanpur-Yellow
+Ghitorni-Yellow
+Arjan Garh-Yellow
+Guru Dronachrya-Yellow
+Sikandarpur-Yellow
+MG Road-Yellow
+IFFCO Chowk-Yellow
+Huda City Centre-Yellow
+Dwarka Sector 21-Blue
+Dwarka Sector 8-Blue
+Dwarka Sector 9-Blue
+Dwarka Sector 10-Blue
+Dwarka Sector 11-Blue
+Dwarka Sector 12-Blue
+Dwarka Sector 13-Blue
+Dwarks Sector 14-Blue
+Dwarka-Blue
+Dwarka Mor-Blue
+Nawada-Blue
+Uttam Nagar West-Blue
+Uttam Nagar East-Blue
+Janak Puri West-Blue
+Janak Puri East-Blue
+Tilak Nagar-Blue
+Subhash Nagar-Blue
+Tagore Garden-Blue
+Rajouri Garden-Blue
+Ramesh Nagar-Blue
+Moti Nagar-Blue
+Kirti Nagar-Blue
+Shadipur-Blue
+Patel Nagar-Blue
+Rajendra Place-Blue
+Karol Bagh-Blue
+Jhandewalan-Blue
+RK Asharam Marg-Blue
+Rajiv Chowk-Blue
+Barakhamba-Blue
+Mandi House-Blue
+Supreme Court-Blue
+Indraprastha-Blue
+Yamuna Bank-Blue
+Akshardham-Blue
+Mayur Vihar Phase 1-Blue
+Mayur Vihar Extension-Blue
+New Ashok Nagar-Blue
+Noida Sector 15-Blue
+Noida Sector 16-Blue
+Noida Sector 18-Blue
+Botanical Garden-Blue
+Golf Course-Blue
+Noida City Center-Blue
+Noida Sector 34-Blue
+Noida Sector 52-Blue
+Noida Sector 61-Blue
+Noida Sector 59-Blue
+Noida Sector 62-Blue
+Noida Electronic city-Blue
+New Delhi Airport Express-Airport Express
+Shivaji Stadium-Airport Express
+Dhaula Kuan -Airport Express
+Delhi Aerocity -Airport Express
+IGI Airport -Airport Express
+Dwarka Sector 21-Airport Express
+Inderlok-Green
+Ashok Park Main-Green
+Punjabi Bagh-Green
+Shivaji Park-Green
+Madipur-Green
+Pashcim Vihar East-Green
+Paschim Vihar West-Green
+Peera Garhi-Green
+Udyog Nagar-Green
+Maharaja Surajmal Stadium-Green
+Nangloi-Green
+Nangloi Railway Station-Green
+Rajdhani Park-Green
+Mundka-Green
+Mundka Industrial Area-Green
+Ghevra Metro-Green
+Tikri Kalan-Green
+Tikri Border-Green
+Pandit Shree Ram Sharma-Green
+Bahdurgarh City-Green
+Brigadier Hoshiar Singh-Green
+Sector 55-56-Rapid
+Sector 54 chowk-Rapid
+Sector 53 54-Rapid
+Sector 42 43-Rapid
+DLF Phase 1-Rapid
+Sikandarpur-Rapid
+DLF phase 2-Rapid
+Belvedre Towers-Rapid
+Cyber City-Rapid
+Moulsari Avenue-Rapid
+DLF phase 3-Rapid
+Kashmere Gate-Violet
+Lal Quila-Violet
+Jama Masjid-Violet
+Delhi Gate-Violet
+ITO-Violet
+Mandi House-Violet
+Janpath-Violet
+Central Secreteriat-Violet
+Khan Market-Violet
+Jawarhlal Nehru Stadium-Violet
+Jangpura-Violet
+Lajpat Nagar-Violet
+Moolchand-Violet
+Kailash Colony-Violet
+Nehru Place-Violet
+Kalkaji Mandir-Violet
+Govind Puri-Violet
+Okhla-Violet
+Jasola-Violet
+Sarita Vihar-Violet
+Mohan Estate-Violet
+Tughlakabad-Violet
+Badarpur Border-Violet
+Sarai-Violet
+NHPC Chowk-Violet
+Mewala Maharajpur-Violet
+Sector 28 Faridabad-Violet
+Badkal Mor-Violet
+Old Faridabad-Violet
+Neelam Chowk Ajronda-Violet
+Bata Chowk-Violet
+Escorts Mujesar-Violet
+Sant Surdas Sihhi-Violet
+Raja Nahar Singh-Violet
+Janakpuri west-Magenta
+Dabri mor janakpuri-Magenta
+Dashrath puri-Magenta
+Palam-Magenta
+Sadar bazaar cantonment-Magenta
+Terminal 1 igi airport-Magenta
+Shankar vihar-Magenta
+Vasant vihar-Magenta
+Munirka-Magenta
+RR puram-Magenta
+IIT delhi-Magenta
+Hauz khas-Magenta
+Panchsheel park-Magenta
+Chiraj delhi-Magenta
+Greater kailash-Magenta
+Nehru enclave-Magenta
+Kalkaji mandir-Magenta
+Okhla NSIC-Magenta
+Sukhdev vihar-Magenta
+JAMIA MILLIA ISLAMIA-Magenta
+Okhla Vihar-Magenta
+Jasola Vihar Shaheen Bagh-Magenta
+Kalindi Kunj-Magenta
+Okhla Bird Sanctuary-Magenta
+Botanical Garden-Magenta
+Majilis Park-Pink
+Azadpur-Pink
+Shalimar Bagh-Pink
+Netaji Subhash Place-Pink
+Shakurpur-Pink
+Punjabi Bagh West-Pink
+ESI BASAI DARAPUR-Pink
+Rajouri Garden-Pink
+Maya Puri-Pink
+Naraina Vihar-Pink
+Delhi Cantt-Pink
+Durgabai Deshmukh South-Pink
+Sir Vishweshwaraih Moti Bagh-Pink
+Bhikaji Cama Place-Pink
+Sarojini Nagar-Pink
+Dilli Haat INA-Pink
+South Extension-Pink
+Lajpat Nagar-Pink
+Vinobapuri-Pink
+Ashram-Pink
+Sarai Kale Khan Hazrat Nizamuddin-Pink
+Mayur Vihar Phase 1-Pink
+Mayur Vihar Pocket 1-Pink
+Trilokpuri Sanjay Lake-Pink
+Vinod Nagar East-Pink
+Mandawali West Vinod Nagar-Pink
+IP Extension-Pink
+Anand Vihar-Pink
+Karkar Duma-Pink
+Karkarduma Court-Pink
+Krishna Nagar-Pink
+East Azad Nagar-Pink
+Welcome-Pink
+Jaffrabad-Pink
+Maujpur-Pink
+Gokulpuri-Pink
+Johri Enclave-Pink
+Shiv Vihar-Pink
+Noida Sector 51-Aqua
+Noida Sector 50-Aqua
+Noida Sector 76-Aqua
+Noida Sector 101-Aqua
+Noida Sector 81-Aqua
+NSEZ Noida-Aqua
+Noida Sector 83-Aqua
+Noida Sector 137-Aqua
+Noida Sector 142-Aqua
+Noida Sector 143-Aqua
+Noids Sector 144-Aqua
+Noida Sector 145-Aqua
+Noida Sector 146-Aqua
+Noida Sector 147-Aqua
+Noida Sector 148-Aqua
+Knowledge Park 2-Aqua
+Pari Chowk Greater Noida-Aqua
+Alpha 1 Greater Noida-Aqua
+Delta 1 Greater Noida-Aqua
+GNIDA Office-Aqua
+Depot Greater Noida-Aqua
+Dwarka-Grey
+Nangli-Grey
+Najafgarh-Grey
+Yamuna Bank-Blue2
+Laxmii Nagar-Blue2
+Nirman Vihar-Blue2
+Preet Vihar-Blue2
+Karkar Duma-Blue2
+Anand Vihar-Blue2
+Kaushambi-Blue2
+Vaishali-Blue2
+Ashok Park Main-Green2
+Satguru Ram Singh Marg-Green2
+Kirti Nagar-Green2
